@@ -15,9 +15,8 @@ namespace apelanterns.ModSystem
 
     public class MoreLanternsSystem : ModSystem
     {
-        // public IShaderProgram EntityGenericShaderProgram { get; private set; }
 
-        private readonly string thisModID = "apelanterns112";
+        private readonly string thisModID = "apelanterns120";
 
         // private ICoreServerAPI sapi;
         private ICoreClientAPI capi;
@@ -42,11 +41,6 @@ namespace apelanterns.ModSystem
                 var PSCollectibleGetHeldItemInfoPostfix = typeof(PS_CollectibleGetHeldItemInfo_Patch).GetMethod(nameof(PS_CollectibleGetHeldItemInfo_Patch.PSCollectibleGetHeldItemInfoPostfix));
                 this.harmony.Patch(PSCollectibleGetHeldItemInfoOriginal, postfix: new HarmonyMethod(PSCollectibleGetHeldItemInfoPostfix));
             }
-            /*
-            this.capi = api;
-            this.capi.Event.ReloadShader += this.LoadCustomShaders;
-            this.LoadCustomShaders();
-            */
 
         }
 
@@ -88,24 +82,17 @@ namespace apelanterns.ModSystem
             // end temp stupid bandaid
         }
 
-        /*
-        public bool LoadCustomShaders()
-        {
-
-            this.EntityGenericShaderProgram = this.capi.Shader.NewShaderProgram();
-            (this.EntityGenericShaderProgram as ShaderProgram).AssetDomain = "game";
-            this.capi.Shader.RegisterFileShaderProgram("entityanimated", this.EntityGenericShaderProgram);
-            this.EntityGenericShaderProgram.Compile();
-            return true;
-        }
-        */
 
         public void RegisterClasses(ICoreAPI api)
         {
             // api.RegisterBlockBehaviorClass("RightClickPickupFloatingLantern", typeof(RightClickPickupFloatingLantern));
             api.RegisterBlockBehaviorClass("MoreLanterns.BlockName", typeof(BlockBehaviorName));
+            api.RegisterBlockBehaviorClass("MoreLanterns.Dimmable", typeof(BlockBehaviorDimmable));
+
             api.RegisterBlockEntityClass("befloatinglantern", typeof(BEFloatingLantern));
+
             api.RegisterBlockClass("blockfloatinglantern", typeof(BlockFloatingLantern));
+
         }
 
 

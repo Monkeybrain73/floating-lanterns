@@ -59,21 +59,39 @@
 	"lanternparts-kasa": "Lantern roof",
 	"lanternparts-houju": "Lantern roof jewel",
 
+	"block-lanternparts-*-kiso-*": "Lantern base plate",
+	"block-lanternparts-*-sao-*": "Lantern pillar",
+	"block-lanternparts-*-ashi-*": "Lantern base with legs",
+	"block-lanternparts-*-chuudai-*": "Lantern firebox platform",
+	"block-lanternparts-*-hibukuro-*": "Lantern firebox",
+	"block-lanternparts-*-kasa-*": "Lantern roof",
+	"block-lanternparts-*-houju-*": "Lantern roof jewel",
+
+
 	"lanternparts-style-yukimi": "Yukimi",
 	"lanternparts-style-maru": "Kodai Maru Yukimi",
 	"lanternparts-style-ikekomi": "Ikekomi",
 	"lanternparts-style-daitsuki": "Daitsuki",
+
 
 	"stonelantern-yukimi-doro": "Yukimi Dōrō",
 	"stonelantern-kodai-maru-yukimi": "Kodai Maru Yukimi Dōrō",
 	"stonelantern-ikekomi-gata-oribe": "Oribe Ikekomi Dōrō",
 	"stonelantern-okunoin-daitsuki": "Okunoin Daitsuki Dōrō",
 
+
 	"apestonelantern-clean": "new",
 	"apestonelantern-weathered": "weathered",
 	"apestonelantern-cracked": "cracked",
 	"apestonelantern-mossy": "mossy",
 	"apestonelantern-rust": "rusty",
+
+	"block-apestonelantern-*-*-*-clean": "new",
+	"block-apestonelantern-*-*-*-weathered": "weathered",
+	"block-apestonelantern-*-*-*-cracked": "cracked",
+	"block-apestonelantern-*-*-*-mossy": "mossy",
+	"block-apestonelantern-*-*-*-rust": "rusty",
+
 
 	"game:apestonelantern-handbook-help-title-yukimi-doro": "Yukimi Dōrō",
 	"game:apestonelantern-handbook-help-title-kodai-maru-yukimi": "Kodai Maru Yukimi Dōrō",
@@ -94,8 +112,9 @@
 	"block-handbooktext-apestonelantern-okunoin-daitsuki-*": "<br>Traditional Japanese temple lantern. 'Okunoin' refers to the sacred area deep within a shrine, where important or hidden Buddhist statues are enshrined. Lanterns placed in these secluded areas, are called Okunoin-style lanterns. Distinctive shape with a wide, flared top with 'warabites' and a decorated base, often decorated with geometric patterns or floral motifs.",
 
 
-
-
+	"blockhelp-behavior-dimmable-sneak": "Dim the light",
+	"dimmable-help": "Sneak + right click to dim the light",
+	"rightclickpickup-help": "Right click to pick up",
 
 
 	"block-floatinglantern-*": "Floating lantern",

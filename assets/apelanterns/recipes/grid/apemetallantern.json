@@ -12,7 +12,7 @@
 	},
 	"width": 3,
 	"height": 3,
-	"output": { "type": "block", "code": "apemetallantern-on-modern1-plain-up"  }
+	"output": { "type": "block", "code": "apemetallantern-on-modern1-plain-l1-up"  }
 },
 {
 	"ingredientPattern": "HPC,GLG,BPS",
@@ -27,7 +27,7 @@
 	},
 	"width": 3,
 	"height": 3,
-	"output": { "type": "block", "code": "apemetallantern-on-modern2-plain-up"  }
+	"output": { "type": "block", "code": "apemetallantern-on-modern2-plain-l1-up"  }
 },
 {
 	"ingredientPattern": "H_C,GLG,BPS",
@@ -42,7 +42,7 @@
 	},
 	"width": 3,
 	"height": 3,
-	"output": { "type": "block", "code": "apemetallantern-on-gothic1-plain-up"  }
+	"output": { "type": "block", "code": "apemetallantern-on-gothic1-plain-l1-up"  }
 },
 {
 	"ingredientPattern": "HP_,SLS,_P_",
@@ -54,7 +54,7 @@
 	},
 	"width": 3,
 	"height": 3,
-	"output": { "type": "block", "code": "apemetallantern-on-medieval3-plain-up"  }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval3-plain-l1-up"  }
 },
 {
 	"ingredientPattern": "HPS,GLG,APB",
@@ -69,7 +69,7 @@
 	},
 	"width": 3,
 	"height": 3,
-	"output": { "type": "block", "code": "apemetallantern-on-medieval4-plain-up"  }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval4-plain-l1-up"  }
 },
 {
 	"ingredientPattern": "HPS,GLG,APB",
@@ -84,7 +84,7 @@
 	},
 	"width": 3,
 	"height": 3,
-	"output": { "type": "block", "code": "apemetallantern-on-medieval6-plain-up"  }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval6-plain-l1-up"  }
 },
 {
 	"ingredientPattern": "HP_,GLG,_PS",
@@ -97,7 +97,7 @@
 	},
 	"width": 3,
 	"height": 3,
-	"output": { "type": "block", "code": "apemetallantern-on-medieval2-plain-up"  }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval2-plain-l1-up"  }
 },
 {
 	"ingredientPattern": "L",
@@ -105,9 +105,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-on-modern1-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-on-modern1-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-off-modern1-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-off-modern1-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -115,9 +115,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-off-modern1-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-off-modern1-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-on-modern1-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-on-modern1-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -125,9 +125,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-on-modern2-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-on-modern2-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-off-modern2-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-off-modern2-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -135,9 +135,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-off-modern2-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-off-modern2-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-on-modern2-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-on-modern2-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -145,9 +145,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-on-gothic1-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-on-gothic1-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-off-gothic1-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-off-gothic1-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -155,9 +155,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-off-gothic1-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-off-gothic1-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-on-gothic1-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-on-gothic1-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -165,9 +165,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-on-medieval3-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-on-medieval3-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-off-medieval3-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-off-medieval3-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -175,9 +175,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-off-medieval3-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-off-medieval3-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-on-medieval3-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval3-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -185,9 +185,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-on-medieval4-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-on-medieval4-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-off-medieval4-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-off-medieval4-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -195,9 +195,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-off-medieval4-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-off-medieval4-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-on-medieval4-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval4-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -205,9 +205,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-on-medieval6-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-on-medieval6-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-off-medieval6-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-off-medieval6-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -215,9 +215,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-off-medieval6-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-off-medieval6-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-on-medieval6-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval6-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -225,9 +225,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-on-medieval2-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-on-medieval2-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-off-medieval2-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-off-medieval2-plain-l1-up" }
 },
 {
 	"ingredientPattern": "L",
@@ -235,9 +235,9 @@
 	"height": 1,
 	"shapeless": true,
 	"ingredients": {
-		"L": { "type": "block", "code": "apemetallantern-off-medieval2-plain-up" }
+		"L": { "type": "block", "code": "apemetallantern-off-medieval2-plain-l1-up" }
 	},
-	"output": { "type": "block", "code": "apemetallantern-on-medieval2-plain-up" }
+	"output": { "type": "block", "code": "apemetallantern-on-medieval2-plain-l1-up" }
 },
 
 ]
